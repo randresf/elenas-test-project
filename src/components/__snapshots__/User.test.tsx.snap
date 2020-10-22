@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshop 1`] = `
+<div
+  className="css-0"
+>
+  <label
+    className="css-a98wfm"
+  >
+    Name: 
+    k
+     
+    s
+  </label>
+  <label
+    className="css-a98wfm"
+  >
+    Direccion: 
+    calle 66
+  </label>
+  <label
+    className="css-a98wfm"
+  >
+    Ciudad: 
+    medellin
+  </label>
+</div>
+`;
